@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fab {
+    margin-right: 5px;
+    margin-left: 20px;
+}
+
+.comment {
+    color: grey;
+    font-size: 0.8em;
+}
+
+.fa-ellipsis-v {
+    float: right;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+.numbers {
+    color: grey;
+    font-size: 0.8em;
+}
+
+img[class="img-fluid"] {
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+}
